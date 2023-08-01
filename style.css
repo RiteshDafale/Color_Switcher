@@ -1,0 +1,46 @@
+
+h1{
+    text-align: center;
+
+}
+.para{
+    margin:40px;
+}
+p{
+    text-align:justify;
+    width:70%;
+}
+#yellow{
+    border:2px solid yellow;
+background-color:yellow ;
+padding-bottom: 9px;
+padding-right: 20px;
+
+}
+
+#red{
+    border:2px solid red;
+    background-color: red;
+    padding-bottom: 9px;
+    padding-right: 20px;
+
+}
+
+#green{
+    border:2px solid green;
+    background-color: green;
+    padding-bottom: 9px;
+    padding-right: 20px;
+
+}
+
+#white{
+    background-color: white;
+    border:2px solid black;
+    padding-bottom: 9px;
+    padding-right: 20px;
+}
+.span{
+    margin:2px;
+    cursor: pointer;
+}
